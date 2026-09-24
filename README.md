@@ -1,19 +1,16 @@
 # Knowledge Base Copilot
 
-AI copilot that answers questions from your knowledge base with citations. Part of the Zion Tech Group App Network.
+AI copilot that answers questions from your knowledge base with citations.
 
-- 🌐 Live app: https://ziontechgroup.com/knowledge-base-copilot/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+**Live app:** https://ziontechgroup.com/knowledge-base-copilot/
 
----
-🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+## Features
+- Grounded answers with source citations
+- Zero-hallucination guardrails
+- Slack/Teams-ready deployment
 
-**Related apps:**
-- [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base) — https://ziontechgroup.com/zion-ai-knowledge-base/
-- [ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/
-- [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) — https://ziontechgroup.com/zion-ai-interview-copilot/
-- [zion-ai-knowledge-graph](https://github.com/Zion-support/zion-ai-knowledge-graph) — https://ziontechgroup.com/zion-ai-knowledge-graph/
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related apps: [RAG Forge](https://github.com/Zion-support/rag-forge) · [Knowledge Gap Finder](https://github.com/Zion-support/knowledge-gap-finder) · [Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [Docs Doctor](https://github.com/Zion-support/zion-ai-docs-doctor)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+© 2026 Zion Tech Group
